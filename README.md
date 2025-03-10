@@ -9,7 +9,7 @@ I decided to challenge myself here, by taking on multiple new technologies in ma
 
 ##### IDE Change
 
-Previously I was using VSC, but for this project I grabbed NeoVim by the balls.
+Previously I was using VSC, but for this project I tried NeoVim
 
 ##### Makefile
 
